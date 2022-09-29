@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Greeter.greet("John Dou")
+        Greeter.greet("John DoO")
     }
 }
